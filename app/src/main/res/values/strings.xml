@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KidLock</string>
+    <string name="set_pin_label">Buat PIN (min 4 digit)</string>
+    <string name="pin_hint">PIN</string>
+    <string name="save_pin">Simpan PIN</string>
+    <string name="timer_label">Durasi penggunaan (menit)</string>
+    <string name="minutes_hint">contoh: 60</string>
+    <string name="start_timer">Mulai Timer</string>
+    <string name="stop_timer">Hentikan Timer</string>
+    <string name="pin_too_short">PIN minimal 4 digit</string>
+    <string name="pin_saved">PIN berhasil disimpan</string>
+    <string name="set_pin_first">Buat PIN terlebih dahulu</string>
+    <string name="enter_valid_minutes">Masukkan durasi yang valid</string>
+    <string name="timer_started">Timer dimulai</string>
+    <string name="timer_stopped">Timer dihentikan</string>
+    <string name="grant_overlay_permission">Izinkan tampil di atas aplikasi lain, lalu kembali ke aplikasi</string>
+    <string name="notif_time_left">Sisa waktu: %d menit</string>
+    <string name="device_locked">Perangkat Terkunci</string>
+    <string name="wrong_pin">PIN salah, coba lagi</string>
+    <string name="unlock">Buka Kunci</string>
+</resources>
